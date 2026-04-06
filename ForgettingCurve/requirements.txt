@@ -1,0 +1,7 @@
+flask
+pywebview
+python-dotenv
+
+# Optional — enable AI features (PDF import, card generation)
+# anthropic
+# PyPDF2
